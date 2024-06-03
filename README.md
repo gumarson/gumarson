@@ -14,8 +14,8 @@ In addition to my commitment to technical development, my fluency in English and
 
 ## Technologies I Excel In:
 
-- **Languages:** TypeScript, JavaScript, C#
-- **Frameworks / Libraries:** NestJS, Next.js, Node.js, React, .NET Core
+- **Languages:** TypeScript, JavaScript, C#, Java
+- **Frameworks / Libraries:** NestJS, Next.js, Node.js, React, .NET Core, Angular
 - **Databases:** PostgreSQL, MySQL
 - **Tools / Technologies:** Git, Docker, Visual Studio Code, RESTful APIs
 
