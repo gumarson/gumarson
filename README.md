@@ -1,15 +1,6 @@
 # 👋 Introduction
 
 ## Greetings, Fellow Developers! 👨‍💻
-
-Welcome to my GitHub profile! I'm Gustavo Marson, an unwavering enthusiast of full-stack development with a passion for challenges and innovation. Currently pursuing my degree in Analysis and Systems Development at FACENS in Sorocaba, São Paulo, I am deeply immersed in the world of technology.
-
-## About Me
-
-My journey in programming is fueled by an insatiable thirst for knowledge. With solid skills in TypeScript/JavaScript and a growing proficiency in C#/.NET Core, I am dedicated to mastering frameworks like NestJS, Next.js, Node.js, and React. I specialize in crafting web solutions that not only function but also impress.
-
-In addition to my commitment to technical development, my fluency in English and dedication to learning German open doors to global communication and a broader understanding of emerging trends and technologies.
-
 # 🚀 Expertise
 
 ## Technologies I Excel In:
