@@ -1,5 +1,3 @@
-# 👋 Introduction
-
 ## Greetings, Fellow Developers! 👨‍💻
 # 🚀 Expertise
 
